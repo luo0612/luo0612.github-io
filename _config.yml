@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'luo012的个人博客'
+title: 'luo0612的个人博客'
 subtitle: '该博客用于分项技术和生活'
 description: '技术分享主要是Android, 生活分享主要是心理'
 author: 'luo0612'
