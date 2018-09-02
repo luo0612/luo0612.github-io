@@ -1,10 +1,8 @@
 ---
-title: First Post
-author: Chris
+title: 对Android系统的Java Framework层和系统APP的修改
+author: luo0612
 layout: post
 ---
-## 对Android系统的Java Framework层和系统APP的修改
-
 ### 之前
 从之前做Android普通的到如今独自做话机项目已经快三个月.   
 从最开始都不熟悉Android系统的各个模块, 到现在Java Framework和系统APP的各种修改, 感觉进步还是有的, 至少在看Android系统源码上.
