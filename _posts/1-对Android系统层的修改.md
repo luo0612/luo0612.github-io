@@ -1,3 +1,8 @@
+---
+title: First Post
+author: Chris
+layout: post
+---
 ## 对Android系统的Java Framework层和系统APP的修改
 
 ### 之前
