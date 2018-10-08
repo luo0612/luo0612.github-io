@@ -1,4 +1,8 @@
-## 对Activity的DecorView的包装
+---
+title: 对Activity的DecorView的包装(二)
+author: luo0612
+layout: post
+---
 
 看了下公司的系统代码对于根布局decor_layout.xml的修改, 有所获.  
 
