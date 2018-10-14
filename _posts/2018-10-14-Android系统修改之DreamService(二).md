@@ -1,5 +1,5 @@
 ---
-title: 2018-10-08-Android系统修改之DreamService(二)
+title: Android系统修改之DreamService(二)
 author: luo0612
 layout: post
 ---
